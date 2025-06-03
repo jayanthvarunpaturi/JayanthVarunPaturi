@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jayanth Varun Paturi</h1>
 
 <p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=jayanthvarunpaturi&label=Profile+Views&color=0e75b6&style=flat)
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&width=500&lines=DevOps+Engineer;Cloud+Architect;Java+Developer;Data+Analyst" alt="Typing Animation" />
 </p>
 
