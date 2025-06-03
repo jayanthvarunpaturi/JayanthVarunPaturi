@@ -87,7 +87,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JayanthVarun&theme=onedark&title=Commits,Repositories,PullRequest,Issues&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jayanthvarunpaturi&theme=onedark&title=Commits,Repositories,PullRequest,Issues&margin-w=15" />
 </p>
 
 ---
@@ -95,8 +95,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayanthVarun&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayanthVarun&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jayanthvarunpaturi&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanthvarunpaturi&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
