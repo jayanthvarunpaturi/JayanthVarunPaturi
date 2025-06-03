@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayanth Varun Paturi</h1>
 
 <p align="center">
-  ![Visitors](https://api.countapi.xyz/hit/jayanthvarunpaturi/github-profile-visits?style=flat-square)
-
-
+  ![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/jayanthvarunpaturi/profile-visits)
 </p>
 
 <p align="center">
