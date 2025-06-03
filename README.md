@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jayanth Varun Paturi</h1>
 
 <p align="center">
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jayanthvarunpaturi.jayanthvarunpaturi&title=👀+Visitors)
+  ![Visitors](https://api.countapi.xyz/hit/jayanthvarunpaturi/github-profile-visits?style=flat-square)
+
 
 </p>
 
