@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jayanth Varun Paturi</h1>
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=jayanthvarunpaturi&label=Profile+Views&color=0e75b6&style=flat)
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jayanthvarunpaturi.jayanthvarunpaturi&title=👀+Visitors)
+
 </p>
 
 <p align="center">
