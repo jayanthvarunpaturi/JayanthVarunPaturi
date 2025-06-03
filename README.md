@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-🎓 CS Master's Student @ **University of Dayton** (Graduating May 2025)  
+🎓 Graduate CS Student @ **University of Dayton** (May 2025)  
 🛠️ Passionate about building scalable, intelligent backend systems  
 💡 Exploring AI + Job Automation | 💼 Actively looking for Full-Time Roles (OPT from July 2025)  
 📫 Reach me at **paturij2@udayton.edu**  
