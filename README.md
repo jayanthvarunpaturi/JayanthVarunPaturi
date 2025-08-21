@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&width=500&lines=DevOps+Engineer;Cloud+Architect;Java+Developer;Data+Analyst" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&width=500&lines=DevOps+Engineer;Cloud+Architect;Data+Analyst" alt="Typing Animation" />
 </p>
 
 
